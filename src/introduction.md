@@ -19,3 +19,13 @@ Mirolo (2011) also finds wide ranging comparisons of students' mastery over iter
 There isn't enough studies on recursion out there, unlike some other field in Computer Science.
 
 ### Why is it important to solve now?
+
+According to Benander, Benander, & Pu (1996), recursion is a concept that is fundamental to Computer Science.
+Moreover, recursion is essential for tree searching and traversal, which are quite important and useful data structures.
+Turbak, Royden, Stephan, & Herbst (1999) even consider recursion more fundamental than looping constructs; since loops can be expressed by some form of recursion, particularly tail-recursion.
+Turbak, et al. (1999) further explains that recursion can't be expressed as-easily by loops.
+Loops would have to simulate the entire stack to express recursion, which is a daunting task for novices, and even for intermediate programmers.
+It is better to solve the problem now, since recursion takes time to understand.
+This is supported by Gunion, et al. (2009), which found that pre-exposing students to recursion before they even reach taking a Computer Science course may ease the challenge of learning recursion.
+That is, early exposure to the concept of recursion may help with learning recursion with code.
+Therefore, it is important to take steps to solve the problems stated above and to spend more time figuring out how to teach recursion
