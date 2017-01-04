@@ -9,5 +9,8 @@ These studies tell us that we might be wrong in our preconceptions of recursion,
 This also shows us that the problem isn't with the students or the concept, but the pedagogy in use.
  
 Furthermore, learning to write base cases have also been identified as problematic. (Murphy, Fitzgerald, Grissom, & McCauley, 2015)
-They found that most of the errors related to writing recursive code for a tree traversal were missing or malformed base cases.
+In their research they found that most of the errors made by students related to writing recursive code for a tree traversal were regarding base cases.
+The students were missing or writing malformed base cases for their solutions.
 This might be because how we teach recursion does not stress the importance of the base case.
+
+### Why is it important to solve now?
