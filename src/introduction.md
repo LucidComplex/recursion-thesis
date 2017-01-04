@@ -16,7 +16,7 @@ This might be because how we teach recursion does not stress the importance of t
 Another problem is the lack of studies regarding student comprehension of recursion.
 Simply put, we don't know what students are thinking about when they try to comprehend recursive code. (McCauley, 2015b)
 Mirolo (2011) also finds wide ranging comparisons of students' mastery over iteration vs recursion is scarce.
-There isn't enough studies on recursion out there, unlike some other field in Computer Science.
+Hence, there isn't enough studies on recursion out there, unlike other fields in Computer Science.
 
 ### Why is it important to solve now?
 
