@@ -1,4 +1,4 @@
-## What is the problem?
+### What is the problem?
 
 Recursion is difficult to teach and learn, or is it?
 Perhaps it is only difficult, because we make it appear so.
