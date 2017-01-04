@@ -1,7 +1,7 @@
 ### What is the problem?
 
 Recursion is difficult to teach and learn, or is it?
-Perhaps it is only difficult, because we make it appear so.
+Perhaps it is only difficult because we make it appear so.
 McCauley, Hanks, Fitzgerald, & Murphy (2015) speculate that our bias of recursion as being difficult to write and learn stems from how we teach it; that is, students find recursion hard because instructors find it hard as well.
 This causes students to believe that recursion is difficult, and thus will spend less time understanding recursion, rationalizing with themselves that recursion is hard.
 There are a few studies suggesting otherwise, that iteration is actually no easier than recursion (Mirolo, 2012) and that few disagree that recursion is difficult for novices to learn. (Gunion, Milford, & Stege, 2009)
