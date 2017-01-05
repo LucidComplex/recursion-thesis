@@ -1,4 +1,4 @@
-## Research Questions
+# Research Questions
 
 Due to the gaps in knowledge, I have come up with the following questions:
  
