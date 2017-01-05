@@ -2,6 +2,7 @@
 title: Proposal
 author: Eli Edrian Tan
 date: January 5, 2017
-bibliography: bibliography.bib
+bibliography: src/bibliography.bib
 csl: styles/apa.csl
+documentclass: report
 ...
