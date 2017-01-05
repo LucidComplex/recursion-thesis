@@ -77,3 +77,23 @@ In the study conducted by Murpy, et al. (2015), almost half of the students used
 This type of recursion is not a very good type of recursion.
 Seeing that half of the students used this type suggests that students are trying to avoid using proper recursion.
 They speculate that the students are actually trying to be clever, or more efficient, but it promotes bad recursion instead.
+
+### Gaps
+
+Wide ranging comparisons of students' mastery over iteration vs recursion is actually scarce. (Mirolo, 2011)
+There is a lack of studies regarding whether students master iteration or recursion better.
+Furthermore, McCauley, et al. (2015b) also found that a lack of studies on comprehension of recursive programs exists.
+They also found the same for studies on recursion involving data structures.
+ 
+Currently, we don't know what students are thinking about when they try to comprehend recursive code. (McCauley, et al., 2015b)
+Additional qualitative research using observations and interviews could tell us why the challenge of recursion exists for students. (McCauley, Grissom, Fitzgerald, & Murphy, 2015a)
+The role of debugging on comprehending recursive solutions should be explored as well. (McCauley, 2015a)
+Seeing how a student debugs recursive solutions may allow us to see what they feel is wrong about their recursive solution.
+Furthermore, Murpy, et al. (2015) says observing students while they solve recursive BST problems would be useful to understanding why they have difficulties implementing recursion.
+This would allow us to figure out which part students are having difficulties on.
+ 
+McCauley, et al. (2015a) figures research into the effect of recent pedagogies on recursion such as pair programming, peer instruction, etc., would be valuable.
+Since these recent pegagogies have had a noticeable impact on CS1, it should be worthwhile to see whether they have an effect on recursion as well.
+ 
+Overall, studies into recursion vs iteration is currently lacking.
+Most of the studies on recursion are painfully outdated as well.
