@@ -53,3 +53,27 @@ The difficulty of tracing recursive functions arises from having to understand i
 One of the main points of CS1 is the divide, conquer, and glue problem-solving technique. (Turbak, et al., 1999)
 This is exactly what recursion is good at, therefore we should teach recursion to CS1 students.
 The divide, conquer, and glue technique is also used as a subproblem-solving technique.
+
+### State of the Art
+
+Many people say that recursion is more difficult that iteration, but Mirolo (2012) found otherwise.
+His research on iteration vs recursion does not corroborate with the belief that iteration is easier that recursion.
+In fact, he found that they are both the same, that is, iteration is no easier than recursion.
+ 
+According to Gunion, et al. (2009), few disagree that recursion is a difficult topic for novices to learn and master.
+That is, it isn't a very difficult topic after all.
+It must be a misconception that recursion is a very difficult topic to learn.
+However, Murpy, et al. (2015) finds students still commit mistakes with recursion.
+Missing or malformed base cases being the most frequent error for tree traversal.
+Hence, perhaps recursion with data structures is problematic?
+ 
+Mirolo (2010) finds that students develop and build up mental models for understanding recursive computation early into learning it.
+Hence, we should make sure the correct mental models are being created as early as possible.
+Additionally, Mirolo (2010) found after 2 months of classwork, only 1/4 of the students experience difficulty with tracing recursive code.
+So probably more examples, through classwork, lead to the students tracing recursive code better.
+Practice made an impact in understanding recursive code.
+ 
+In the study conducted by Murpy, et al. (2015), almost half of the students used a variant of recursion called arm's length recursion.
+This type of recursion is not a very good type of recursion.
+Seeing that half of the students used this type suggests that students are trying to avoid using proper recursion.
+They speculate that the students are actually trying to be clever, or more efficient, but it promotes bad recursion instead.
